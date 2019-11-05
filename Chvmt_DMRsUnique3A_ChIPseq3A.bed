@@ -1,0 +1,37 @@
+chr1	6845383	7829766	CAMTA1	0	+	1	DMRs-3A_KO-2	EpiSC_boundregion2	1
+chr1	90286572	90401991	LRRC8D	0	+	2	DMRs-3A_KO-20	Diff_BoundRegion_113,EpiSC_boundregion67	2
+chr1	164528596	164821067	PBX1	0	+	3	DMRs-3A_KO-39	Diff_BoundRegion_210,EpiSC_boundregion130,Diff_BoundRegion_211,EpiSC_boundregion131,EpiSC_boundregion129,EpiSC_boundregion132	4
+chr1	177975270	178007142	LOC730102	0	-	1	DMRs-3A_KO-41	Diff_BoundRegion_242	1
+chr10	1223252	1779670	ADARB2	0	-	1	DMRs-3A_KO-245	Diff_BoundRegion_379,EpiSC_boundregion218	1
+chr11	19372270	20143147	NAV2	0	+	5	DMRs-3A_KO-270	Diff_BoundRegion_625	1
+chr11	121959810	122293579	MIR100HG	0	-	4	DMRs-3A_KO-283	Diff_BoundRegion_753,Diff_BoundRegion_754,Diff_BoundRegion_755,EpiSC_boundregion457,EpiSC_boundregion454,EpiSC_boundregion455,EpiSC_boundregion456	6
+chr11	131240370	132206716	NTM	0	+	1	DMRs-3A_KO-293	Diff_BoundRegion_766,Diff_BoundRegion_767	2
+chr12	31535156	31743952	DENND5B	0	-	2	DMRs-3A_KO-301	Diff_BoundRegion_828,Diff_BoundRegion_829,EpiSC_boundregion487	2
+chr12	49760687	49921209	LOC100335030,SPATS2	0	+	5	DMRs-3A_KO-305	Diff_BoundRegion_869,EpiSC_boundregion511,Diff_BoundRegion_870,EpiSC_boundregion512	3
+chr13	50656304	51102779	DLEU1	0	+	1	DMRs-3A_KO-317	EpiSC_boundregion659	1
+chr15	99191767	99507759	IGF1R	0	+	2	DMRs-3A_KO-355	Diff_BoundRegion_1406,EpiSC_boundregion843	1
+chr18	3496029	4455266	DLGAP1	0	-	2	DMRs-3A_KO-401	Diff_BoundRegion_1548,Diff_BoundRegion_1549,EpiSC_boundregion965,EpiSC_boundregion964	3
+chr18	52889428	53303224	TCF4	0	-	16	DMRs-3A_KO-404	Diff_BoundRegion_1629	1
+chr2	23608297	23931483	KLHL29	0	+	1	DMRs-3A_KO-54	EpiSC_boundregion1053	1
+chr20	20370271	20693266	RALGAPA2	0	-	2	DMRs-3A_KO-434,DMRs-3A_KO-435	Diff_BoundRegion_2071,EpiSC_boundregion1260	1
+chr21	38123188	38362545	HLCS	0	-	3	DMRs-3A_KO-451	EpiSC_boundregion1336	1
+chr22	30404730	30573064	HORMAD2,HORMAD2-AS1	0	+,-	4	DMRs-3A_KO-462	Diff_BoundRegion_2188,EpiSC_boundregion1348,Diff_BoundRegion_2189,EpiSC_boundregion1350,Diff_BoundRegion_2190,EpiSC_boundregion1349	4
+chr3	59733003	61237135	FHIT	0	-	4	DMRs-3A_KO-87	Diff_BoundRegion_2279,Diff_BoundRegion_2280	2
+chr3	71003864	71633140	FOXP1	0	-	6	DMRs-3A_KO-88	Diff_BoundRegion_2300,EpiSC_boundregion1409,Diff_BoundRegion_2301,Diff_BoundRegion_2302	3
+chr3	155838336	156256927	KCNAB1	0	+	5	DMRs-3A_KO-93	Diff_BoundRegion_2432	1
+chr3	180774467	181460016	SOX2-OT	0	+	24	DMRs-3A_KO-101,DMRs-3A_KO-97,DMRs-3A_KO-98,DMRs-3A_KO-99	Diff_BoundRegion_2468	1
+chr4	81256873	81884910	C4orf22	0	+	2	DMRs-3A_KO-115	Diff_BoundRegion_2661	1
+chr4	169418216	169849608	PALLD	0	+	2	DMRs-3A_KO-123	Diff_BoundRegion_2819,Diff_BoundRegion_2820,Diff_BoundRegion_2821,Diff_BoundRegion_2822,EpiSC_boundregion1714,EpiSC_boundregion1712,EpiSC_boundregion1713,EpiSC_boundregion1715,EpiSC_boundregion1716	8
+chr4	186506597	186877870	SORBS2	0	-	13	DMRs-3A_KO-125,DMRs-3A_KO-126	Diff_BoundRegion_2844,Diff_BoundRegion_2845	2
+chr5	140165720	140391929	PCDHA1,PCDHA10,PCDHA11,PCDHA12,PCDHA13,PCDHA2,PCDHA3,PCDHA4,PCDHA5,PCDHA6,PCDHA7,PCDHA8,PCDHA9,PCDHAC1	0	+	18	DMRs-3A_KO-153	EpiSC_boundregion1846	1
+chr5	140894587	140998622	DIAPH1,LOC100505658	0	+,-	4	DMRs-3A_KO-158	Diff_BoundRegion_3052,Diff_BoundRegion_3053,EpiSC_boundregion1847,Diff_BoundRegion_3054,EpiSC_boundregion1848	3
+chr5	142657495	142815077	NR3C1	0	-	15	DMRs-3A_KO-159	Diff_BoundRegion_3063,EpiSC_boundregion1852	2
+chr6	16299342	16761721	ATXN1	0	-	2	DMRs-3A_KO-164	Diff_BoundRegion_3141,Diff_BoundRegion_3142,Diff_BoundRegion_3143,EpiSC_boundregion1898	4
+chr6	29758807	29765584	HCG4,LOC554223	0	+,-	2	DMRs-3A_KO-165	EpiSC_boundregion1919	1
+chr6	35085847	35109187	TCP11	0	-	7	DMRs-3A_KO-167	Diff_BoundRegion_3173	1
+chr6	108881025	109005971	FOXO3	0	+	2	DMRs-3A_KO-173	EpiSC_boundregion2002	1
+chr6	118781934	119031238	CEP85L	0	-	3	DMRs-3A_KO-177	Diff_BoundRegion_3333	1
+chr6	124124990	125146786	NKAIN2	0	+	5	DMRs-3A_KO-179	EpiSC_boundregion2022	1
+chr7	92234234	92465941	CDK6	0	-	2	DMRs-3A_KO-201	Diff_BoundRegion_3557,Diff_BoundRegion_3558,Diff_BoundRegion_3559,Diff_BoundRegion_3560	4
+chr7	107788070	108096841	NRCAM	0	-	4	DMRs-3A_KO-205	Diff_BoundRegion_3580	1
+chr7	120628750	120937498	CPED1	0	+	2	DMRs-3A_KO-206	Diff_BoundRegion_3606,Diff_BoundRegion_3607	2
